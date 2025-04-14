@@ -24,9 +24,9 @@ ifndef::upstream[]
 endif::[]
 
 .Procedure
-. In the left menu, click *Data Science Projects*.
+. In the left menu, click *Data science projects*.
 +
-The *Data Science Projects* page opens.
+The *Data science projects* page opens.
 . Click the name of the project that you want to deploy a model in.
 +
 A project details page opens.
@@ -56,7 +56,7 @@ The *Number of accelerators* field appears.
 . Click *Deploy*.
 
 .Verification
-* Confirm that the deployed model is shown on the *Models* tab for the project, and on the *Model Serving* page of the dashboard with a checkmark in the *Status* column.
+* Confirm that the deployed model is shown on the *Models* tab for the project, and on the *Model deployments* page of the dashboard with a checkmark in the *Status* column.
 
 [role="_additional-resources"]
 .Additional resources

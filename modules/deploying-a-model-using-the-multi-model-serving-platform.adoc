@@ -22,9 +22,9 @@ endif::[]
 * For the model that you want to deploy, you know the associated folder path in your S3-compatible object storage bucket.
 
 .Procedure
-. In the left menu of the {productname-short} dashboard, click *Data Science Projects*.
+. In the left menu of the {productname-short} dashboard, click *Data science projects*.
 +
-The *Data Science Projects* page opens.
+The *Data science projects* page opens.
 . Click the name of the project that you want to deploy a model in.
 +
 A project details page opens.
@@ -56,7 +56,7 @@ The *Add connection* form opens with fields specific to the connection type that
 .. Click *Deploy*.
 
 .Verification
-* Confirm that the deployed model is shown on the *Models* tab for the project, and on the *Model Serving* page of the dashboard with a checkmark in the *Status* column.
+* Confirm that the deployed model is shown on the *Models* tab for the project, and on the *Model deployments* page of the dashboard with a checkmark in the *Status* column.
 
 ifdef::upstream[]
 [role='_additional-resources']
